@@ -3,7 +3,6 @@ import EventHero from './components/EventHero';
 import TicketSelector from './components/TicketSelector';
 import EventDescription from './components/EventDescription';
 import SectorInfo from './components/SectorInfo';
-import EventLocation from './components/EventLocation';
 
 function App() {
   return (
@@ -19,7 +18,6 @@ function App() {
             </div>
             <EventDescription />
             <SectorInfo />
-            <EventLocation />
           </div>
 
           <div className="hidden lg:block lg:col-span-1">
