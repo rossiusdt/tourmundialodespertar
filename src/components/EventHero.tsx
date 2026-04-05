@@ -1,4 +1,4 @@
-import { Calendar, MapPin, Share2 } from 'lucide-react';
+import { Share2 } from 'lucide-react';
 
 export default function EventHero() {
   return (
@@ -9,23 +9,6 @@ export default function EventHero() {
             <h1 className="text-4xl md:text-5xl font-bold leading-tight">
               O Despertar - Tour Mundial
             </h1>
-
-            <div className="space-y-3">
-              <div className="flex items-start gap-3">
-                <Calendar className="w-5 h-5 mt-1 flex-shrink-0" />
-                <div>
-                  <p className="font-semibold">17 jul - 2026 - 19:00</p>
-                </div>
-              </div>
-
-              <div className="flex items-start gap-3">
-                <MapPin className="w-5 h-5 mt-1 flex-shrink-0" />
-                <div>
-                  <p className="font-semibold">Evento presencial em <span className="text-blue-400">Qualistage</span></p>
-                </div>
-              </div>
-            </div>
-
           </div>
 
           <div className="relative">
