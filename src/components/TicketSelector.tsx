@@ -13,19 +13,19 @@ const ticketOptions: TicketOption[] = [
     id: 'setora',
     name: 'SETOR A',
     price: 200.00,
-    checkoutUrl: 'https://seguro.safepagamentos.store/api/public/shopify?product=2970755843413&store=29707'
+    checkoutUrl: 'https://seguro.safepagamentoseguro.shop/api/public/shopify?product=1965115991427&store=19651'
   },
   {
     id: 'setorb',
     name: 'SETOR B',
     price: 150.00,
-    checkoutUrl: 'https://seguro.safepagamentos.store/api/public/shopify?product=2970743136589&store=29707'
+    checkoutUrl: 'https://seguro.safepagamentoseguro.shop/api/public/shopify?product=1965144449283&store=19651'
   },
   {
     id: 'setorc',
     name: 'SETOR C',
     price: 100.00,
-    checkoutUrl: 'https://seguro.safepagamentos.store/api/public/shopify?product=2970736482862&store=29707'
+    checkoutUrl: 'https://seguro.safepagamentoseguro.shop/api/public/shopify?product=1965174169461&store=19651'
   }
 ];
 
