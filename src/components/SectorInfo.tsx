@@ -28,6 +28,17 @@ export default function SectorInfo() {
           </p>
         </div>
       </div>
+
+      <div className="mt-8">
+        <h3 className="text-xl font-bold text-gray-900 mb-4">Mapa do Evento</h3>
+        <div className="rounded-lg overflow-hidden shadow-md border border-gray-200">
+          <img
+            src="/mapatribo.jpg"
+            alt="Mapa do Evento"
+            className="w-full h-auto object-cover"
+          />
+        </div>
+      </div>
     </div>
   );
 }
