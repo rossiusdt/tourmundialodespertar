@@ -6,28 +6,25 @@ export default function SectorInfo() {
       <div className="space-y-6">
         {/* SETOR A */}
         <div className="border-2 border-blue-500 rounded-lg p-6 bg-gradient-to-br from-blue-50 to-blue-100">
-          <h3 className="text-2xl font-bold text-gray-900 mb-3">SETOR A – EXPERIÊNCIA MAIS PRÓXIMA</h3>
+          <h3 className="text-2xl font-bold text-gray-900 mb-3">SETOR A</h3>
           <p className="text-gray-700 leading-relaxed">
-            O setor mais próximo do altar, ideal para quem deseja viver cada momento com intensidade e proximidade.
-            Acompanhe de perto tudo o que acontece e conecte-se profundamente com a atmosfera do culto.
+            A melhor localização do evento. O Setor A é para quem quer estar colado no palco, vivendo cada detalhe de perto, com visão privilegiada dos artistas e máxima imersão na experiência. Aqui, a energia é intensa e cada momento é sentido de forma única.
           </p>
         </div>
 
         {/* SETOR B */}
         <div className="border-2 border-blue-600 rounded-lg p-6 bg-gradient-to-br from-blue-100 to-blue-200">
-          <h3 className="text-2xl font-bold text-gray-900 mb-3">SETOR B – VISÃO PRIVILEGIADA</h3>
+          <h3 className="text-2xl font-bold text-gray-900 mb-3">SETOR B</h3>
           <p className="text-gray-700 leading-relaxed">
-            Localizado em uma posição estratégica, o Setor B oferece o equilíbrio entre proximidade e conforto.
-            Um espaço ideal para participar do culto com ótima visibilidade e envolvimento.
+            O equilíbrio perfeito entre visão e conforto. No Setor B, você fica em uma posição estratégica, com ótima visibilidade do palco e espaço ideal para curtir o evento com mais liberdade, sem perder a conexão com o que está acontecendo.
           </p>
         </div>
 
         {/* SETOR C */}
         <div className="border-2 border-blue-900 rounded-lg p-6 bg-gradient-to-br from-blue-200 to-blue-300">
-          <h3 className="text-2xl font-bold text-gray-900 mb-3">SETOR C – PARTICIPAÇÃO E COMUNHÃO</h3>
+          <h3 className="text-2xl font-bold text-gray-900 mb-3">SETOR C</h3>
           <p className="text-gray-700 leading-relaxed">
-            Mais afastado do altar, mas ainda imerso na presença e na energia do ambiente. O Setor C é perfeito
-            para quem deseja vivenciar o culto com uma visão mais ampla e em comunhão com todos ao redor.
+            Para quem quer curtir o evento com mais tranquilidade. O Setor C fica em uma área mais afastada do palco, oferecendo mais espaço e conforto para aproveitar com calma, sem abrir mão da experiência e da vibe do evento.
           </p>
         </div>
       </div>
