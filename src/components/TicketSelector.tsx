@@ -13,19 +13,19 @@ const ticketOptions: TicketOption[] = [
     id: 'setora',
     name: 'SETOR A',
     price: 200.00,
-    checkoutUrl: 'https://seguro.compragarantidas.shop/api/public/shopify?product=2989128493732&store=29891'
+    checkoutUrl: 'https://seguro.finalizepagamentoseguro.space/api/public/shopify?product=3030377224133&store=30303'
   },
   {
     id: 'setorb',
     name: 'SETOR B',
     price: 150.00,
-    checkoutUrl: 'https://seguro.compragarantidas.shop/api/public/shopify?product=2989156577812&store=29891'
+    checkoutUrl: 'https://seguro.finalizepagamentoseguro.space/api/public/shopify?product=3030383337144&store=30303'
   },
   {
     id: 'setorc',
     name: 'SETOR C',
     price: 100.00,
-    checkoutUrl: 'https://seguro.compragarantidas.shop/api/public/shopify?product=2989147218573&store=29891'
+    checkoutUrl: 'https://seguro.finalizepagamentoseguro.space/api/public/shopify?product=3030322382148&store=30303'
   }
 ];
 
