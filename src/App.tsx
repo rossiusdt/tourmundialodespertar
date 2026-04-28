@@ -1,7 +1,6 @@
 import Header from './components/Header';
 import EventHero from './components/EventHero';
 import TicketSelector from './components/TicketSelector';
-import EventDescription from './components/EventDescription';
 import SectorInfo from './components/SectorInfo';
 
 function App() {
@@ -16,7 +15,6 @@ function App() {
             <div className="lg:hidden">
               <TicketSelector />
             </div>
-            <EventDescription />
             <SectorInfo />
           </div>
 
