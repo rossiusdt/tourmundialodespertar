@@ -14,7 +14,7 @@ export default function EventHero() {
           <div className="relative">
             <div className="relative rounded-lg overflow-hidden shadow-2xl">
               <img
-                src="/bannerdespertar.jpg"
+                src="/WhatsApp_Image_2026-04-28_at_18.01.33.jpeg"
                 alt="O Despertar - Tour Mundial"
                 className="w-full h-full object-cover"
               />
